@@ -1,0 +1,17 @@
+body {
+    height: 100vh;
+    background: linear-gradient(to right, orange, darkseagreen);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    background-color: green;
+    color: white;
+    padding: 20px 30px;
+    font-size: 30px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 5px 5px rgb(0, 78, 0);
+}
